@@ -3,6 +3,18 @@ AutoDoc aims to build a framework for automated analysis of human nails using im
 
 Related paper published: http://www.mecs-press.org/ijitcs/ijitcs-v8-n7/IJITCS-V8-N7-5.pdf
 
+# Dataset size
+
+Total images: 150
+---------------------
+Healthy: 24
+Anemia: 24
+Liver Cirrosis: 18
+Pulmonary: 32
+Arthritis, Thyroid: 22
+Psoriasis: 18
+Kidney Failure: 12
+
 # How to run
 
 1. Download below jar files and keep them into ./lib folder:
@@ -24,18 +36,6 @@ java -jar AutoDoc.jar TRAIN_MODE
 
 To use machine learning models, execute jar file as:
 java -jar AutoDoc.jar USE_MODE
-
-# Dataset size
-
-Total images: 150
----------------------
-Healthy: 24
-Anemia: 24
-Liver Cirrosis: 18
-Pulmonary: 32
-Arthritis, Thyroid: 22
-Psoriasis: 18
-Kidney Failure: 12
 
 # Accuracy of different models
 
