@@ -1,0 +1,2 @@
+# AutoDoc
+AutoDoc aims to build a framework for automated analysis of human nails using image processing and machine learning algorithms. The software provides GUI for loading image data, performing operations on it using predefined algorithms. Also, use can validate our machine learning model and save the model so that it can be loaded after. The purpose of this project it to speed-up research in nail image processing. Related paper published: http://www.mecs-press.org/ijitcs/ijitcs-v8-n7/IJITCS-V8-N7-5.pdf
